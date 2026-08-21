@@ -2,9 +2,9 @@
 
 **Course:** CS6.302 Software System Development  
 **Database:** MySQL 8.0  
-**GitHub Repo:** https://github.com/your-username/ssd-lab2-delivery-analytics
+**GitHub Repo:** https://github.com/mihirbachhav025/SSD_Assigment_two
 
----
+---s
 
 ## ABOUT
 
